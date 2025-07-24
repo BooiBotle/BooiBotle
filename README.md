@@ -8,7 +8,7 @@ I'm a passionate and driven Information Technology student with a growing intere
 🌅 Spending time outdoors, especially relaxing at the dam with friends
 💡 Exploring tech trends and expanding my skills in coding and design
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning on sharpning my skills in the following
     Web development (HTML, CSS, JavaScript)
     Python and Java
     Database management and system architecture
