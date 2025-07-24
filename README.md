@@ -8,10 +8,12 @@ I'm a passionate and driven Information Technology student with a growing intere
 🌅 Spending time outdoors, especially relaxing at the dam with friends
 💡 Exploring tech trends and expanding my skills in coding and design
 
-## 🌱 Currently Learning on sharpning my skills in the following
+## 🌱 Currently sharpning my skills in the following
     Web development (HTML, CSS, JavaScript)
     Python and Java
     Database management and system architecture
+## Lets connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Botle%20Booi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/botle-booi-0155a8274)
 
 ## 📊 GitHub Stats
 ![Botle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BooiBotle&show_icons=true&theme=radical)
