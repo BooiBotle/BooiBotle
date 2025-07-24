@@ -13,6 +13,12 @@ I'm a passionate and driven Information Technology student with a growing intere
     Python and Java
     Database management and system architecture
 
+## 📊 GitHub Stats
+![Botle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BooiBotle&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BooiBotle&layout=compact&theme=radical)
+
+
 
 
 
