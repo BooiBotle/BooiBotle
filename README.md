@@ -14,6 +14,8 @@ I'm a passionate and driven Information Technology student with a growing intere
     Database management and system architecture
 ## Lets connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Botle%20Booi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/botle-booi-0155a8274)
+[![view - Virtual CV Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://booibotle.github.io/MyVirtualCV/)
+
 
 ## 📊 GitHub Stats
 ![Botle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BooiBotle&show_icons=true&theme=radical)
